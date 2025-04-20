@@ -16,7 +16,7 @@ BookWorld is a Django-based web application that allows users to manage and disp
 <li>Form-Based Interaction: Users can easily add books via an interactive form.</li>
 
 <h1>Setup</h1>
-<h2>Prerequisites<h2>
+<h2>Prerequisites</h2>
   
 <li>Python 3.x</li>
 
