@@ -25,7 +25,7 @@ BookWorld is a Django-based web application that allows users to manage and disp
 <li>Database (SQLite, PostgreSQL, etc.)</li>
 
 <br>
-<h2>Instalattion Steps
+<h2>Instalattion Steps</h2>
 
 <li>Clone the Repository</li>
 git clone https://github.com/VasilevaSimona/bookworld-django.git
@@ -46,6 +46,7 @@ python manage.py runserver
 <ul>
 <li>Navigate to the Django admin panel at http://127.0.0.1:8000/admin/.</li>
 <li>Use the superuser credentials created above to log in and manage authors, books, and publications.</li>
+</ul>
 <br>
 <h2>Admin Customizations</h2>
 <li>AuthorAdmin: Custom admin interface for the Author model with additional controls for adding, editing, and deleting.</li>
